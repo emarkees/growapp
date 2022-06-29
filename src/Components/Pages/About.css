@@ -1,0 +1,41 @@
+.abt_1{
+    margin: 0rem;
+    background-image: url(../Pages/Images/abt.jpeg);
+    height: 30rem;
+    width: 100;
+    filter: 3rem;
+    background-blend-mode:luminosity;
+    
+    
+    
+}
+.about{
+   
+}
+.about-1{
+    margin: 5rem;
+    padding: 0rem 0rem;
+    text-decoration: red;
+    text-align: center;
+    color: rgb(15, 117, 177);
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    float: center;
+}
+.about-2{
+   
+}
+.about-3{
+    display: flex;
+    float: right;
+    margin: -2rem 6rem;
+    text-align: justify;
+    background-color: inherit;
+    height: 15rem;
+    width:35rem;
+    line-height: 1.4;
+    word-spacing: 0.3rem;
+    color: rgb(89, 11, 192);
+}
+
+
